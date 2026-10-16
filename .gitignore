@@ -1,0 +1,13 @@
+# IDE
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target
+
+# PostgreSQL data
+postgres-data
+
+outCharacters.csv

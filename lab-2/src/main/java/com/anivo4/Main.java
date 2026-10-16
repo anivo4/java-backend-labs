@@ -1,9 +1,9 @@
-package org.example;
+package com.anivo4;
 
-import org.example.config.DatabaseConfig;
-import org.example.entity.ShopEntity;
-import org.example.repository.ShopRepository;
-import org.example.repository.ShopRepositoryImpl;
+import com.anivo4.config.DatabaseConfig;
+import com.anivo4.entity.ShopEntity;
+import com.anivo4.repository.ShopRepository;
+import com.anivo4.repository.ShopRepositoryImpl;
 
 import java.util.List;
 

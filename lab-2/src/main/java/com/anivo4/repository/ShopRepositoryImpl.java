@@ -1,7 +1,7 @@
-package org.example.repository;
+package com.anivo4.repository;
 
-import org.example.config.DatabaseConfig;
-import org.example.entity.ShopEntity;
+import com.anivo4.config.DatabaseConfig;
+import com.anivo4.entity.ShopEntity;
 
 import javax.sql.DataSource;
 import java.sql.*;

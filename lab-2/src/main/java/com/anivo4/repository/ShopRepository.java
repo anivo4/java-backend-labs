@@ -1,6 +1,6 @@
-package org.example.repository;
+package com.anivo4.repository;
 
-import org.example.entity.ShopEntity;
+import com.anivo4.entity.ShopEntity;
 
 import java.util.List;
 

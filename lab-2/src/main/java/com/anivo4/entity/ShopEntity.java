@@ -1,4 +1,4 @@
-package org.example.entity;
+package com.anivo4.entity;
 
 import java.util.Objects;
 
