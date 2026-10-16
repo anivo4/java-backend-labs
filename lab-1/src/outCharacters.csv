@@ -1,0 +1,7 @@
+species,status,count
+Human,Dead,5
+Human,Alive,7
+Human,unknown,3
+Alien,Dead,1
+Alien,Alive,1
+Alien,unknown,3
