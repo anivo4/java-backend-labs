@@ -12,12 +12,13 @@
     <modules>
         <module>lab-1</module>
         <module>lab-2</module>
+        <module>lab-3</module>
     </modules>
 
     <properties>
         <maven.compiler.release>25</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
+        <spring-boot.version>3.5.5</spring-boot.version>
         <!-- Версии библиотек -->
         <postgresql.version>42.7.4</postgresql.version>
         <hikari.version>5.1.0</hikari.version>
